@@ -1,4 +1,4 @@
- import os
+import os
 import mimetypes
 import asyncio
 from pyrogram import Client, filters, idle
